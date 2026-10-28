@@ -16,7 +16,7 @@ Explore my portfolio to learn more about me, my technical skills, and my project
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Programming Languages:** Python, Java, JavaScript
+- **Programming Languages:** Python,JavaScript
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code
 - **Cloud & Systems:** AWS fundamentals, Linux basics
